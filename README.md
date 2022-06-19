@@ -19,3 +19,7 @@
 - run `arduino.ino` for taking the washing machine timer photo
 - run `python3 app2.py` for flask app
 - run `python3 TelegramBot_Final.py`for telegram bot
+
+## Video
+
+- [Video](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/lokesh_v_research_iiit_ac_in/EVAFodt273dOguAVeypDZlMBuZr7FXxlXnBPf_6iNDD8NQ?e=avdDNF)
